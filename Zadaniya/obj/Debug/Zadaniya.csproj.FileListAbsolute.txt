@@ -1,0 +1,16 @@
+D:\Чупрун Богдан, Захар Петренко\windows form\SaveСкриншотКаждые5сек\Zadaniya\Zadaniya\bin\Debug\Zadaniya.exe.config
+D:\Чупрун Богдан, Захар Петренко\windows form\SaveСкриншотКаждые5сек\Zadaniya\Zadaniya\bin\Debug\Zadaniya.exe
+D:\Чупрун Богдан, Захар Петренко\windows form\SaveСкриншотКаждые5сек\Zadaniya\Zadaniya\bin\Debug\Zadaniya.pdb
+D:\Чупрун Богдан, Захар Петренко\windows form\SaveСкриншотКаждые5сек\Zadaniya\Zadaniya\obj\Debug\Zadaniya.csproj.AssemblyReference.cache
+D:\Чупрун Богдан, Захар Петренко\windows form\SaveСкриншотКаждые5сек\Zadaniya\Zadaniya\obj\Debug\Zadaniya.csproj.SuggestedBindingRedirects.cache
+D:\Чупрун Богдан, Захар Петренко\windows form\SaveСкриншотКаждые5сек\Zadaniya\Zadaniya\obj\Debug\Zadaniya.csproj.CoreCompileInputs.cache
+D:\Чупрун Богдан, Захар Петренко\windows form\SaveСкриншотКаждые5сек\Zadaniya\Zadaniya\obj\Debug\Zadaniya.exe
+D:\Чупрун Богдан, Захар Петренко\windows form\SaveСкриншотКаждые5сек\Zadaniya\Zadaniya\obj\Debug\Zadaniya.pdb
+C:\Users\kymifBSM\Desktop\Zadaniya\Zadaniya\bin\Debug\Zadaniya.exe.config
+C:\Users\kymifBSM\Desktop\Zadaniya\Zadaniya\bin\Debug\Zadaniya.exe
+C:\Users\kymifBSM\Desktop\Zadaniya\Zadaniya\bin\Debug\Zadaniya.pdb
+C:\Users\kymifBSM\Desktop\Zadaniya\Zadaniya\obj\Debug\Zadaniya.csproj.AssemblyReference.cache
+C:\Users\kymifBSM\Desktop\Zadaniya\Zadaniya\obj\Debug\Zadaniya.csproj.SuggestedBindingRedirects.cache
+C:\Users\kymifBSM\Desktop\Zadaniya\Zadaniya\obj\Debug\Zadaniya.csproj.CoreCompileInputs.cache
+C:\Users\kymifBSM\Desktop\Zadaniya\Zadaniya\obj\Debug\Zadaniya.exe
+C:\Users\kymifBSM\Desktop\Zadaniya\Zadaniya\obj\Debug\Zadaniya.pdb
